@@ -10,6 +10,17 @@
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
+#EXTINF:-1
+tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/visionprime.png"
+group-title="Indonesia Channels",Vision Prime v
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+http://202.147.193.244/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
+
+
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
