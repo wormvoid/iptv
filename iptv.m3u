@@ -33,7 +33,10 @@ https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 http://202.147.193.244/live/eds/ANTV/sa_dash/ANTV.mpd
 
 
-
+#EXTINF:-1 tvg-id="tvOne.id" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/966/49966-SNAPSHOT-l.png",TVOne
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 
 
 
@@ -115,13 +118,8 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="Indonesia Channels",Nusantara TV
 https://playback.nusantaratv.com/v1/01963864158c1ea506ecdfff96629/0196386d2de91ebd47043a6e25d3b/nusantaralive_1080p.m3u8
 
-<================================================== BERITA ===========================================>
 
 
-#EXTINF:-1 tvg-id="tvOne.id" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/966/49966-SNAPSHOT-l.png",TVOne
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-l.png",Metro TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
