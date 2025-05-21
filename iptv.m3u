@@ -148,7 +148,7 @@ http://202.147.193.244/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
 
 // TV ONE
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/moji.png" group-title="📰NEWS",TV One d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/tvone.png" group-title="📰NEWS",TV One d
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
